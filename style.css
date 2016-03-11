@@ -1,0 +1,150 @@
+#top {
+    background-color: gray;
+    height: 120px;
+}
+#logo {
+    height: 100px;
+    width: 100px;
+    padding-left: 50px;
+    padding-top: 10px;
+    float: left;
+}
+#logo2 {
+    font-size: 100px;
+    float: left;
+    padding-left: 20px;
+}
+#logo3 {
+    float: right;
+    padding-right: 50px;
+    padding-top: 9px;
+}
+#logo4 {
+    width: 90px;
+    height: 90px;
+}
+#logo5 {
+    text-align: center;
+    font-size: 20px;
+}
+#signin {
+    width: 270px;
+    background-color: darkslategray;
+    float: left;
+    height: 30px;
+}
+#signin2 {
+    background-color: lightgray;
+    width: 60px;
+    float: left;
+}
+#signin0 {
+    width: 365px;
+    float: left;
+    height: 30px;
+    font-size: 30px;
+    padding-top: 40px;
+    color: darkslategray;
+    text-align: center;
+}
+.item {
+    background-color: lightslategray;
+    width: 90%;
+    margin: auto;
+    margin-top: 20px;
+    height: 100px;
+}
+.thumbnail {
+    float: left;
+    height: 90px;
+    width: 90px;
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-right: 10px;
+    background-size: contain;
+}
+.item1 {
+    margin-top: 20px;
+    font-size: 25px;
+    font-family: monospace;
+    float: left;
+    width: 78%;
+    background-color: lightgray;
+}
+.item2 {
+    font-family: serif;
+    text-align: center;
+    background-color: slategray;
+}
+.cost{
+    color: blue;
+    width: 70px;
+    font-size: 35px;
+    float: left;
+    margin-top: 30px;
+    background-color: black;
+}
+.cart{
+    margin-top: 10px;
+    text-align: center;
+    width: 90px;
+    float: left;
+    background-color: slategray;
+}
+.cartpic{
+    -webkit-transform: scaleX(-1);
+    margin: auto;
+    width: 60px;
+    height: 60px;
+}
+.cart2 {
+    padding-top: 5px;
+    font-size: 30px;
+    height: 35px;
+    padding-left: 10px;
+    text-align: left;
+    width: 60px;
+    float: left;
+    background-color: slategray;
+    margin-top: 30px;
+}
+#test1 {
+    background-image: url(http://www.villages-news.com/wp-content/uploads/2015/12/img_large_18243.jpg);
+}
+#test2 {
+    background-image: url(http://images.lowes.com/product/converted/611942/611942124633lg.jpg);
+}
+#test3 {
+background-image: url(http://www.formufit.com/content/assets/prodimg/3_way_pvc_fitting_front_white.jpg);
+}
+#test4 {
+    background-image: url(http://www.globalspec.com/ImageRepository/LearnMore/20124/1WJW1_AS01d378070bed45471d8dcf671c6ec681d1.png);
+}
+#test5 {
+    background-image: url(http://builtinvacuum.com/scaledgraphics/510_50.jpg);
+}
+#test6 {
+    background-image: url(http://newtonsbuilding.com.au/wp-content/uploads/2013/06/pvc-tee.jpg);
+}
+#test7 {
+    background-image: url(http://www.cepex.com/en/wp-content/files_mf/pvcfittings43.jpg);
+}
+#test8 {
+    background-image: url(http://ecx.images-amazon.com/images/I/41oMQ6BNWhL._SY355_.jpg);
+}
+#test9 {
+    background-image: url(http://ecx.images-amazon.com/images/I/41fgvyxOtvL._AC_UL70_SR70,70_.jpg);
+}
+#checkout {
+    width: 150px;
+    height: 50px;
+    background-color: slategray;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    padding-right: 5px;
+    padding-top: 5px;
+    margin-top: 15px;
+    float: right;
+    margin-right: 100px;
+}
